@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.20)
+project(armada2_injector LANGUAGES CXX)
+
+add_executable(armada2_injector injector.cpp)
+target_compile_features(armada2_injector PRIVATE cxx_std_20)
+target_compile_definitions(armada2_injector PRIVATE UNICODE _UNICODE WIN32_LEAN_AND_MEAN NOMINMAX)
+target_link_libraries(armada2_injector PRIVATE bcrypt)

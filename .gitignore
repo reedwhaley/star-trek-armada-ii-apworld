@@ -1,0 +1,36 @@
+vendor/armada2/*
+!vendor/armada2/version-info.json
+
+local/
+build/
+bin/
+out/
+
+*.exe
+*.dll
+*.pdb
+*.dmp
+*.gpr
+*.rep
+*.ghidra
+*.log
+
+*.pyc
+__pycache__/
+__pycache__/
+*.py[cod]
+
+# Local builds and release artifacts
+build-*/
+out/
+generated/
+release/
+
+# Local runtime output and stock-game-derived research material
+analysis/runtime/
+analysis/imports/
+analysis/exports/
+analysis/fingerprints/
+analysis/signatures/
+vendor/
+client-data/

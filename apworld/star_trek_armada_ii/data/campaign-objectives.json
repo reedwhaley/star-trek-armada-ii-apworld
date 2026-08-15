@@ -1,0 +1,2652 @@
+{
+  "schema_version": 1,
+  "identity": "mission_module + objective_file + objective_index",
+  "deduplication": "same normalized text within one mission module",
+  "exclusion": "failure-only wording: must survive, must not, do not lose, cannot be destroyed, must remain",
+  "candidate_count": 125,
+  "candidate_count_by_faction": {
+    "Borg": 38,
+    "Federation": 50,
+    "Klingon": 37
+  },
+  "entries": [
+    {
+      "id": "a2_borg01s:objective:e07bc467cd47",
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_a.txt",
+      "objective_index": 1,
+      "display_text": "Acquire 3000 Dilithium. Capture & recycle cargo ships (& other ships)",
+      "normalized_text": "acquire 3000 dilithium. capture & recycle cargo ships (& other ships)",
+      "aliases": [
+        {
+          "objective_file": "a2_borg01_a.txt",
+          "objective_index": 1,
+          "display_text": "Acquire 3000 Dilithium. Capture & recycle cargo ships (& other ships)"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg01s:objective:01985bd80679",
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_a.txt",
+      "objective_index": 2,
+      "display_text": "Acquire 3000 Metal.  Capture & recycle cargo ships (& other ships)",
+      "normalized_text": "acquire 3000 metal. capture & recycle cargo ships (& other ships)",
+      "aliases": [
+        {
+          "objective_file": "a2_borg01_a.txt",
+          "objective_index": 2,
+          "display_text": "Acquire 3000 Metal.  Capture & recycle cargo ships (& other ships)"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg01s:objective:9598e673eb71",
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_a.txt",
+      "objective_index": 4,
+      "display_text": "Do not let any of your stations be destroyed",
+      "normalized_text": "do not let any of your stations be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_borg01_a.txt",
+          "objective_index": 4,
+          "display_text": "Do not let any of your stations be destroyed"
+        },
+        {
+          "objective_file": "a2_borg01_b.txt",
+          "objective_index": 1,
+          "display_text": "Do not let any of your stations be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg01s:objective:de7ada75f10a",
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_b.txt",
+      "objective_index": 2,
+      "display_text": "ELIMINATE ALL ENEMIES",
+      "normalized_text": "eliminate all enemies",
+      "aliases": [
+        {
+          "objective_file": "a2_borg01_b.txt",
+          "objective_index": 2,
+          "display_text": "ELIMINATE ALL ENEMIES"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg01s:objective:2d149e7fe3f6",
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_a.txt",
+      "objective_index": 0,
+      "display_text": "Research the Auto-Assimilator at your Modification Center to help capture ships",
+      "normalized_text": "research the auto-assimilator at your modification center to help capture ships",
+      "aliases": [
+        {
+          "objective_file": "a2_borg01_a.txt",
+          "objective_index": 0,
+          "display_text": "Research the Auto-Assimilator at your Modification Center to help capture ships"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg02s:objective:d4ad9739c18d",
+      "faction": "Borg",
+      "mission_number": 2,
+      "mission_module": "a2_borg02S.dsl",
+      "objective_file": "a2_borg02_A.txt",
+      "objective_index": 1,
+      "display_text": "Eliminate Species 8472 and the Federation from this grid",
+      "normalized_text": "eliminate species 8472 and the federation from this grid",
+      "aliases": [
+        {
+          "objective_file": "a2_borg02_A.txt",
+          "objective_index": 1,
+          "display_text": "Eliminate Species 8472 and the Federation from this grid"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg02s:objective:affa166a1b1b",
+      "faction": "Borg",
+      "mission_number": 2,
+      "mission_module": "a2_borg02S.dsl",
+      "objective_file": "a2_borg02_A.txt",
+      "objective_index": 0,
+      "display_text": "Research Auto-Assimilator",
+      "normalized_text": "research auto-assimilator",
+      "aliases": [
+        {
+          "objective_file": "a2_borg02_A.txt",
+          "objective_index": 0,
+          "display_text": "Research Auto-Assimilator"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg03s:objective:1aa920f059a7",
+      "faction": "Borg",
+      "mission_number": 3,
+      "mission_module": "a2_borg03S.dsl",
+      "objective_file": "a2_borg03_main.txt",
+      "objective_index": 0,
+      "display_text": "Construct a Nexus",
+      "normalized_text": "construct a nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_borg03_main.txt",
+          "objective_index": 0,
+          "display_text": "Construct a Nexus"
+        },
+        {
+          "objective_file": "a2_borg03_sec.txt",
+          "objective_index": 0,
+          "display_text": "Construct a Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg03s:objective:9c67fe6aeada",
+      "faction": "Borg",
+      "mission_number": 3,
+      "mission_module": "a2_borg03S.dsl",
+      "objective_file": "a2_borg03_main.txt",
+      "objective_index": 1,
+      "display_text": "Construct Wedges for taking over enemy vessels",
+      "normalized_text": "construct wedges for taking over enemy vessels",
+      "aliases": [
+        {
+          "objective_file": "a2_borg03_main.txt",
+          "objective_index": 1,
+          "display_text": "Construct Wedges for taking over enemy vessels"
+        },
+        {
+          "objective_file": "a2_borg03_sec.txt",
+          "objective_index": 1,
+          "display_text": "Construct Wedges for taking over enemy vessels"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg03s:objective:241eafeb11a6",
+      "faction": "Borg",
+      "mission_number": 3,
+      "mission_module": "a2_borg03S.dsl",
+      "objective_file": "a2_borg03_sec.txt",
+      "objective_index": 2,
+      "display_text": "Destroy the indiginous stations",
+      "normalized_text": "destroy the indiginous stations",
+      "aliases": [
+        {
+          "objective_file": "a2_borg03_sec.txt",
+          "objective_index": 2,
+          "display_text": "Destroy the indiginous stations"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg03s:objective:e2120599e2ed",
+      "faction": "Borg",
+      "mission_number": 3,
+      "mission_module": "a2_borg03S.dsl",
+      "objective_file": "a2_borg03_main.txt",
+      "objective_index": 2,
+      "display_text": "Do not let the Nexus be destroyed",
+      "normalized_text": "do not let the nexus be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_borg03_main.txt",
+          "objective_index": 2,
+          "display_text": "Do not let the Nexus be destroyed"
+        },
+        {
+          "objective_file": "a2_borg03_sec.txt",
+          "objective_index": 3,
+          "display_text": "Do not let the Nexus be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg04s:objective:5ea4cc98e4f2",
+      "faction": "Borg",
+      "mission_number": 4,
+      "mission_module": "a2_borg04S.dsl",
+      "objective_file": "a2_borg04_main.txt",
+      "objective_index": 1,
+      "display_text": "Build a Technology Assimilator to incorporate and absorb the enemy's special weapons",
+      "normalized_text": "build a technology assimilator to incorporate and absorb the enemy's special weapons",
+      "aliases": [
+        {
+          "objective_file": "a2_borg04_main.txt",
+          "objective_index": 1,
+          "display_text": "Build a Technology Assimilator to incorporate and absorb the enemy's special weapons"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg04s:objective:bfa7025bc640",
+      "faction": "Borg",
+      "mission_number": 4,
+      "mission_module": "a2_borg04S.dsl",
+      "objective_file": "a2_borg04_main.txt",
+      "objective_index": 2,
+      "display_text": "Colonize all planets in Grid 967 and extract valuable resources",
+      "normalized_text": "colonize all planets in grid 967 and extract valuable resources",
+      "aliases": [
+        {
+          "objective_file": "a2_borg04_main.txt",
+          "objective_index": 2,
+          "display_text": "Colonize all planets in Grid 967 and extract valuable resources"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg04s:objective:8ad7c86fb186",
+      "faction": "Borg",
+      "mission_number": 4,
+      "mission_module": "a2_borg04S.dsl",
+      "objective_file": "a2_borg04_main.txt",
+      "objective_index": 0,
+      "display_text": "Construct a Nexus to gain a foothold in the system",
+      "normalized_text": "construct a nexus to gain a foothold in the system",
+      "aliases": [
+        {
+          "objective_file": "a2_borg04_main.txt",
+          "objective_index": 0,
+          "display_text": "Construct a Nexus to gain a foothold in the system"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg05s:objective:b336c6aba31d",
+      "faction": "Borg",
+      "mission_number": 5,
+      "mission_module": "a2_borg05S.dsl",
+      "objective_file": "a2_borg05_main.txt",
+      "objective_index": 0,
+      "display_text": "Construct a Recycler",
+      "normalized_text": "construct a recycler",
+      "aliases": [
+        {
+          "objective_file": "a2_borg05_main.txt",
+          "objective_index": 0,
+          "display_text": "Construct a Recycler"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg05s:objective:91ad57af1007",
+      "faction": "Borg",
+      "mission_number": 5,
+      "mission_module": "a2_borg05S.dsl",
+      "objective_file": "a2_borg05_main.txt",
+      "objective_index": 2,
+      "display_text": "Do not allow Nexus 4288 to be destroyed",
+      "normalized_text": "do not allow nexus 4288 to be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_borg05_main.txt",
+          "objective_index": 2,
+          "display_text": "Do not allow Nexus 4288 to be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg05s:objective:b92fd2f6a80d",
+      "faction": "Borg",
+      "mission_number": 5,
+      "mission_module": "a2_borg05S.dsl",
+      "objective_file": "a2_borg05_main.txt",
+      "objective_index": 3,
+      "display_text": "Do not allow the two prototype vessels to be destroyed",
+      "normalized_text": "do not allow the two prototype vessels to be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_borg05_main.txt",
+          "objective_index": 3,
+          "display_text": "Do not allow the two prototype vessels to be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg05s:objective:bdc7de5a8c19",
+      "faction": "Borg",
+      "mission_number": 5,
+      "mission_module": "a2_borg05S.dsl",
+      "objective_file": "a2_borg05_main.txt",
+      "objective_index": 1,
+      "display_text": "Relocate the vessels 'USS Danvers' and 'USS Tonawanda' to Nexus 4288",
+      "normalized_text": "relocate the vessels 'uss danvers' and 'uss tonawanda' to nexus 4288",
+      "aliases": [
+        {
+          "objective_file": "a2_borg05_main.txt",
+          "objective_index": 1,
+          "display_text": "Relocate the vessels 'USS Danvers' and 'USS Tonawanda' to Nexus 4288"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg06s:objective:9ea6f1de17d7",
+      "faction": "Borg",
+      "mission_number": 6,
+      "mission_module": "a2_borg06S.dsl",
+      "objective_file": "a2_borg06_main.txt",
+      "objective_index": 3,
+      "display_text": "Assimilate the Klingon Imperial Research Institute",
+      "normalized_text": "assimilate the klingon imperial research institute",
+      "aliases": [
+        {
+          "objective_file": "a2_borg06_main.txt",
+          "objective_index": 3,
+          "display_text": "Assimilate the Klingon Imperial Research Institute"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg06s:objective:f1d591559029",
+      "faction": "Borg",
+      "mission_number": 6,
+      "mission_module": "a2_borg06S.dsl",
+      "objective_file": "a2_borg06_main.txt",
+      "objective_index": 0,
+      "display_text": "Assimilate the planet Choktu",
+      "normalized_text": "assimilate the planet choktu",
+      "aliases": [
+        {
+          "objective_file": "a2_borg06_main.txt",
+          "objective_index": 0,
+          "display_text": "Assimilate the planet Choktu"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg06s:objective:d63651b5d0d5",
+      "faction": "Borg",
+      "mission_number": 6,
+      "mission_module": "a2_borg06S.dsl",
+      "objective_file": "a2_borg06_main.txt",
+      "objective_index": 1,
+      "display_text": "Construct a Nexus",
+      "normalized_text": "construct a nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_borg06_main.txt",
+          "objective_index": 1,
+          "display_text": "Construct a Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg06s:objective:2f9b8d76c561",
+      "faction": "Borg",
+      "mission_number": 6,
+      "mission_module": "a2_borg06S.dsl",
+      "objective_file": "a2_borg06_main.txt",
+      "objective_index": 2,
+      "display_text": "Destroy the Klingon base",
+      "normalized_text": "destroy the klingon base",
+      "aliases": [
+        {
+          "objective_file": "a2_borg06_main.txt",
+          "objective_index": 2,
+          "display_text": "Destroy the Klingon base"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg07s:objective:e1614ddb9580",
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_C.txt",
+      "objective_index": 3,
+      "display_text": "Bring three Assemblers to the Tachyon Nebula to build the Transwarp Portal",
+      "normalized_text": "bring three assemblers to the tachyon nebula to build the transwarp portal",
+      "aliases": [
+        {
+          "objective_file": "a2_borg07_C.txt",
+          "objective_index": 3,
+          "display_text": "Bring three Assemblers to the Tachyon Nebula to build the Transwarp Portal"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg07s:objective:e0c69f28bdd0",
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_B.txt",
+      "objective_index": 2,
+      "display_text": "Build 10 Energy Cannons or Torpedo Turrets around the Tachyon Nebula",
+      "normalized_text": "build 10 energy cannons or torpedo turrets around the tachyon nebula",
+      "aliases": [
+        {
+          "objective_file": "a2_borg07_B.txt",
+          "objective_index": 2,
+          "display_text": "Build 10 Energy Cannons or Torpedo Turrets around the Tachyon Nebula"
+        },
+        {
+          "objective_file": "a2_borg07_C.txt",
+          "objective_index": 2,
+          "display_text": "Build 10 Energy Cannons or Torpedo Turrets around the Tachyon Nebula"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg07s:objective:645017df11fb",
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_A.txt",
+      "objective_index": 1,
+      "display_text": "Destroy all Species 8472 ships near the Tachyon Nebula",
+      "normalized_text": "destroy all species 8472 ships near the tachyon nebula",
+      "aliases": [
+        {
+          "objective_file": "a2_borg07_A.txt",
+          "objective_index": 1,
+          "display_text": "Destroy all Species 8472 ships near the Tachyon Nebula"
+        },
+        {
+          "objective_file": "a2_borg07_B.txt",
+          "objective_index": 1,
+          "display_text": "Destroy all Species 8472 ships near the Tachyon Nebula"
+        },
+        {
+          "objective_file": "a2_borg07_C.txt",
+          "objective_index": 1,
+          "display_text": "Destroy all Species 8472 ships near the Tachyon Nebula"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg07s:objective:5c7ed3d25164",
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_A.txt",
+      "objective_index": 0,
+      "display_text": "Locate the Tachyon Nebula",
+      "normalized_text": "locate the tachyon nebula",
+      "aliases": [
+        {
+          "objective_file": "a2_borg07_A.txt",
+          "objective_index": 0,
+          "display_text": "Locate the Tachyon Nebula"
+        },
+        {
+          "objective_file": "a2_borg07_B.txt",
+          "objective_index": 0,
+          "display_text": "Locate the Tachyon Nebula"
+        },
+        {
+          "objective_file": "a2_borg07_C.txt",
+          "objective_index": 0,
+          "display_text": "Locate the Tachyon Nebula"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg08s:objective:6b4887889346",
+      "faction": "Borg",
+      "mission_number": 8,
+      "mission_module": "a2_borg08S.dsl",
+      "objective_file": "a2_borg08_main_objectives.txt",
+      "objective_index": 0,
+      "display_text": "Eliminate Species 8472 from this grid",
+      "normalized_text": "eliminate species 8472 from this grid",
+      "aliases": [
+        {
+          "objective_file": "a2_borg08_main_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Eliminate Species 8472 from this grid"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg09s:objective:5dcb81e16e16",
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 0,
+      "display_text": "Acquire 20,000 units of dilithium",
+      "normalized_text": "acquire 20,000 units of dilithium",
+      "aliases": [
+        {
+          "objective_file": "a2_borg09_modified.txt",
+          "objective_index": 0,
+          "display_text": "Acquire 20,000 units of dilithium"
+        },
+        {
+          "objective_file": "a2_borg09_primary.txt",
+          "objective_index": 0,
+          "display_text": "Acquire 20,000 units of dilithium"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg09s:objective:ff9b55e49b4c",
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 1,
+      "display_text": "Acquire 20,000 units of metal",
+      "normalized_text": "acquire 20,000 units of metal",
+      "aliases": [
+        {
+          "objective_file": "a2_borg09_modified.txt",
+          "objective_index": 1,
+          "display_text": "Acquire 20,000 units of metal"
+        },
+        {
+          "objective_file": "a2_borg09_primary.txt",
+          "objective_index": 1,
+          "display_text": "Acquire 20,000 units of metal"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg09s:objective:787d78edd85b",
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 2,
+      "display_text": "Construct and escort at least 5 Federation scout vessels into the Rift",
+      "normalized_text": "construct and escort at least 5 federation scout vessels into the rift",
+      "aliases": [
+        {
+          "objective_file": "a2_borg09_modified.txt",
+          "objective_index": 2,
+          "display_text": "Construct and escort at least 5 Federation scout vessels into the Rift"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:ada2a89c2958",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 0,
+      "display_text": "Build a Federation Trading Post to receive supply shipments.",
+      "normalized_text": "build a federation trading post to receive supply shipments.",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 0,
+          "display_text": "Build a Federation Trading Post to receive supply shipments."
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:384f9a7d2bc3",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 7,
+      "display_text": "Destroy the Rift Maker",
+      "normalized_text": "destroy the rift maker",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 7,
+          "display_text": "Destroy the Rift Maker"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:f66d2c6d7bd9",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 1,
+      "display_text": "Find rift Beta",
+      "normalized_text": "find rift beta",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 1,
+          "display_text": "Find rift Beta"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:18e804e72b18",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 2,
+      "display_text": "Find rift Gamma",
+      "normalized_text": "find rift gamma",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 2,
+          "display_text": "Find rift Gamma"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:b883a4bcc667",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 6,
+      "display_text": "Find the Rift Maker",
+      "normalized_text": "find the rift maker",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 6,
+          "display_text": "Find the Rift Maker"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:a3c9b71536be",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 3,
+      "display_text": "Prevent any 8472 fleets from travelling through rift Alpha",
+      "normalized_text": "prevent any 8472 fleets from travelling through rift alpha",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 3,
+          "display_text": "Prevent any 8472 fleets from travelling through rift Alpha"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:ad7253d4a5db",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 4,
+      "display_text": "Prevent any 8472 fleets from travelling through rift Beta",
+      "normalized_text": "prevent any 8472 fleets from travelling through rift beta",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 4,
+          "display_text": "Prevent any 8472 fleets from travelling through rift Beta"
+        }
+      ]
+    },
+    {
+      "id": "a2_borg10s:objective:ede1f3044b20",
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 5,
+      "display_text": "Prevent any 8472 fleets from travelling through rift Gamma",
+      "normalized_text": "prevent any 8472 fleets from travelling through rift gamma",
+      "aliases": [
+        {
+          "objective_file": "a2_borg10_primary.txt",
+          "objective_index": 5,
+          "display_text": "Prevent any 8472 fleets from travelling through rift Gamma"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed01s:objective:1e759c5e25f5",
+      "faction": "Federation",
+      "mission_number": 1,
+      "mission_module": "a2_fed01S.dsl",
+      "objective_file": "a2_fed01_A.txt",
+      "objective_index": 2,
+      "display_text": "Build Orbital Processing Facility to provide Metal",
+      "normalized_text": "build orbital processing facility to provide metal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed01_A.txt",
+          "objective_index": 2,
+          "display_text": "Build Orbital Processing Facility to provide Metal"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed01s:objective:711fb01a24a9",
+      "faction": "Federation",
+      "mission_number": 1,
+      "mission_module": "a2_fed01S.dsl",
+      "objective_file": "a2_fed01_A.txt",
+      "objective_index": 0,
+      "display_text": "Build Research Facility to allow construction of Akira-class and colony ships (You will use the Research Facility in later missions to research new technologies)",
+      "normalized_text": "build research facility to allow construction of akira-class and colony ships (you will use the research facility in later missions to research new technologies)",
+      "aliases": [
+        {
+          "objective_file": "a2_fed01_A.txt",
+          "objective_index": 0,
+          "display_text": "Build Research Facility to allow construction of Akira-class and colony ships (You will use the Research Facility in later missions to research new technologies)"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed01s:objective:41fee65216ea",
+      "faction": "Federation",
+      "mission_number": 1,
+      "mission_module": "a2_fed01S.dsl",
+      "objective_file": "a2_fed01_A.txt",
+      "objective_index": 1,
+      "display_text": "Colonize planet Regula II",
+      "normalized_text": "colonize planet regula ii",
+      "aliases": [
+        {
+          "objective_file": "a2_fed01_A.txt",
+          "objective_index": 1,
+          "display_text": "Colonize planet Regula II"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed01s:objective:530d394ea50d",
+      "faction": "Federation",
+      "mission_number": 1,
+      "mission_module": "a2_fed01S.dsl",
+      "objective_file": "a2_fed01_A.txt",
+      "objective_index": 3,
+      "display_text": "Eliminate all Borg in Regula Badlands (including ships, stations, and Borg colony world)",
+      "normalized_text": "eliminate all borg in regula badlands (including ships, stations, and borg colony world)",
+      "aliases": [
+        {
+          "objective_file": "a2_fed01_A.txt",
+          "objective_index": 3,
+          "display_text": "Eliminate all Borg in Regula Badlands (including ships, stations, and Borg colony world)"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:6687cb7bfea9",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 0,
+      "display_text": "Build cargo ships",
+      "normalized_text": "build cargo ships",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 0,
+          "display_text": "Build cargo ships"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:0494b3798c60",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 5,
+      "display_text": "Do not let either trading station be destroyed",
+      "normalized_text": "do not let either trading station be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 5,
+          "display_text": "Do not let either trading station be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:6a4b65e2c9fb",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 1,
+      "display_text": "Make contact with the outpost's trading station",
+      "normalized_text": "make contact with the outpost's trading station",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 1,
+          "display_text": "Make contact with the outpost's trading station"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:0f599ceb19cf",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 3,
+      "display_text": "Resupply the station with 1500 dilithium",
+      "normalized_text": "resupply the station with 1500 dilithium",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 3,
+          "display_text": "Resupply the station with 1500 dilithium"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:dfc4758df621",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 4,
+      "display_text": "Resupply the station with 1500 latinum",
+      "normalized_text": "resupply the station with 1500 latinum",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 4,
+          "display_text": "Resupply the station with 1500 latinum"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed02s:objective:93e4f815c695",
+      "faction": "Federation",
+      "mission_number": 2,
+      "mission_module": "a2_fed02S.dsl",
+      "objective_file": "a2_fed02_A.txt",
+      "objective_index": 2,
+      "display_text": "Resupply the station with 1500 metal",
+      "normalized_text": "resupply the station with 1500 metal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed02_A.txt",
+          "objective_index": 2,
+          "display_text": "Resupply the station with 1500 metal"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:61b46f09920b",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_fourth_objectives.txt",
+      "objective_index": 1,
+      "display_text": "Build a Science Station, so that you can build Torpedo Turrets to defend the base",
+      "normalized_text": "build a science station, so that you can build torpedo turrets to defend the base",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_fourth_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Build a Science Station, so that you can build Torpedo Turrets to defend the base"
+        },
+        {
+          "objective_file": "a2_fed03_second_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Build a Science Station, so that you can build Torpedo Turrets to defend the base"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:aa73a6459b08",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_fourth_objectives.txt",
+      "objective_index": 4,
+      "display_text": "Do not let Starbase 176 be destroyed",
+      "normalized_text": "do not let starbase 176 be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_fourth_objectives.txt",
+          "objective_index": 4,
+          "display_text": "Do not let Starbase 176 be destroyed"
+        },
+        {
+          "objective_file": "a2_fed03_main_objectives.txt",
+          "objective_index": 2,
+          "display_text": "Do not let Starbase 176 be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:c3b8f1abc471",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_third_objectives.txt",
+      "objective_index": 3,
+      "display_text": "Do not let the Base be destroyed",
+      "normalized_text": "do not let the base be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_third_objectives.txt",
+          "objective_index": 3,
+          "display_text": "Do not let the Base be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:b75df183021b",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_fourth_objectives.txt",
+      "objective_index": 3,
+      "display_text": "Do not let the Enterprise be destroyed",
+      "normalized_text": "do not let the enterprise be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_fourth_objectives.txt",
+          "objective_index": 3,
+          "display_text": "Do not let the Enterprise be destroyed"
+        },
+        {
+          "objective_file": "a2_fed03_main_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Do not let the Enterprise be destroyed"
+        },
+        {
+          "objective_file": "a2_fed03_third_objectives.txt",
+          "objective_index": 2,
+          "display_text": "Do not let the Enterprise be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:60deb5dc277d",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_third_objectives.txt",
+      "objective_index": 1,
+      "display_text": "Recover at least six derelict Federation vessels",
+      "normalized_text": "recover at least six derelict federation vessels",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_third_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Recover at least six derelict Federation vessels"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:6f9116dd37fd",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_fourth_objectives.txt",
+      "objective_index": 2,
+      "display_text": "Recover the Douglass.",
+      "normalized_text": "recover the douglass.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_fourth_objectives.txt",
+          "objective_index": 2,
+          "display_text": "Recover the Douglass."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed03s:objective:0bfa4faab9be",
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_fourth_objectives.txt",
+      "objective_index": 0,
+      "display_text": "Secure Starbase 176",
+      "normalized_text": "secure starbase 176",
+      "aliases": [
+        {
+          "objective_file": "a2_fed03_fourth_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Secure Starbase 176"
+        },
+        {
+          "objective_file": "a2_fed03_main_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Secure Starbase 176"
+        },
+        {
+          "objective_file": "a2_fed03_second_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Secure Starbase 176"
+        },
+        {
+          "objective_file": "a2_fed03_third_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Secure Starbase 176"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:0410112b917f",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_second.txt",
+      "objective_index": 1,
+      "display_text": "Build a Vulcan Research Institute to upgrade your ships",
+      "normalized_text": "build a vulcan research institute to upgrade your ships",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_second.txt",
+          "objective_index": 1,
+          "display_text": "Build a Vulcan Research Institute to upgrade your ships"
+        },
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 1,
+          "display_text": "Build a Vulcan Research Institute to upgrade your ships"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:cdb2f6b2e990",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_main.txt",
+      "objective_index": 1,
+      "display_text": "Build a Vulcan Research Institute to upgrade your ships.",
+      "normalized_text": "build a vulcan research institute to upgrade your ships.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_main.txt",
+          "objective_index": 1,
+          "display_text": "Build a Vulcan Research Institute to upgrade your ships."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:9f6393ea6420",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_second.txt",
+      "objective_index": 2,
+      "display_text": "Build an Advanced Shipyard",
+      "normalized_text": "build an advanced shipyard",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_second.txt",
+          "objective_index": 2,
+          "display_text": "Build an Advanced Shipyard"
+        },
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 2,
+          "display_text": "Build an Advanced Shipyard"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:15ce2045e430",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_main.txt",
+      "objective_index": 2,
+      "display_text": "Build an Advanced Shipyard.",
+      "normalized_text": "build an advanced shipyard.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_main.txt",
+          "objective_index": 2,
+          "display_text": "Build an Advanced Shipyard."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:3322178c3c83",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_second.txt",
+      "objective_index": 3,
+      "display_text": "Build Repair Ships",
+      "normalized_text": "build repair ships",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_second.txt",
+          "objective_index": 3,
+          "display_text": "Build Repair Ships"
+        },
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 3,
+          "display_text": "Build Repair Ships"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:a2f5ee568596",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_second.txt",
+      "objective_index": 4,
+      "display_text": "Destroy all Borg in the sector",
+      "normalized_text": "destroy all borg in the sector",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_second.txt",
+          "objective_index": 4,
+          "display_text": "Destroy all Borg in the sector"
+        },
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 5,
+          "display_text": "Destroy all Borg in the sector"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:d9d229b918d1",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_main.txt",
+      "objective_index": 3,
+      "display_text": "Destroy all Borg in the sector.",
+      "normalized_text": "destroy all borg in the sector.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_main.txt",
+          "objective_index": 3,
+          "display_text": "Destroy all Borg in the sector."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:11f00e1bb21a",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_third.txt",
+      "objective_index": 4,
+      "display_text": "Repair the Enterprise",
+      "normalized_text": "repair the enterprise",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 4,
+          "display_text": "Repair the Enterprise"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:b59972a824f6",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_second.txt",
+      "objective_index": 0,
+      "display_text": "Research Tachyon Grid to help detect Romulan Patrols",
+      "normalized_text": "research tachyon grid to help detect romulan patrols",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_second.txt",
+          "objective_index": 0,
+          "display_text": "Research Tachyon Grid to help detect Romulan Patrols"
+        },
+        {
+          "objective_file": "a2_fed04_third.txt",
+          "objective_index": 0,
+          "display_text": "Research Tachyon Grid to help detect Romulan Patrols"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed04s:objective:c255eb8ffec4",
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_main.txt",
+      "objective_index": 0,
+      "display_text": "Research Tachyon Grid to help detect Romulan Patrols.",
+      "normalized_text": "research tachyon grid to help detect romulan patrols.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed04_main.txt",
+          "objective_index": 0,
+          "display_text": "Research Tachyon Grid to help detect Romulan Patrols."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed05s:objective:1032d91375f4",
+      "faction": "Federation",
+      "mission_number": 5,
+      "mission_module": "a2_fed05S.dsl",
+      "objective_file": "a2_fed05_A.txt",
+      "objective_index": 2,
+      "display_text": "Do not let the Enterprise be destroyed",
+      "normalized_text": "do not let the enterprise be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed05_A.txt",
+          "objective_index": 2,
+          "display_text": "Do not let the Enterprise be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed05s:objective:ce978381e126",
+      "faction": "Federation",
+      "mission_number": 5,
+      "mission_module": "a2_fed05S.dsl",
+      "objective_file": "a2_fed05_A.txt",
+      "objective_index": 3,
+      "display_text": "Do not let the Portal be destroyed",
+      "normalized_text": "do not let the portal be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed05_A.txt",
+          "objective_index": 3,
+          "display_text": "Do not let the Portal be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed05s:objective:410650b86501",
+      "faction": "Federation",
+      "mission_number": 5,
+      "mission_module": "a2_fed05S.dsl",
+      "objective_file": "a2_fed05_A.txt",
+      "objective_index": 0,
+      "display_text": "Locate the Borg Transwarp Portal in the Regula Badlands.",
+      "normalized_text": "locate the borg transwarp portal in the regula badlands.",
+      "aliases": [
+        {
+          "objective_file": "a2_fed05_A.txt",
+          "objective_index": 0,
+          "display_text": "Locate the Borg Transwarp Portal in the Regula Badlands."
+        }
+      ]
+    },
+    {
+      "id": "a2_fed05s:objective:7cddaa19432f",
+      "faction": "Federation",
+      "mission_number": 5,
+      "mission_module": "a2_fed05S.dsl",
+      "objective_file": "a2_fed05_A.txt",
+      "objective_index": 1,
+      "display_text": "Take over the Portal",
+      "normalized_text": "take over the portal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed05_A.txt",
+          "objective_index": 1,
+          "display_text": "Take over the Portal"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed06s:objective:a67e6a859493",
+      "faction": "Federation",
+      "mission_number": 6,
+      "mission_module": "a2_fed06S.dsl",
+      "objective_file": "a2_fed06_primary.txt",
+      "objective_index": 0,
+      "display_text": "Capture the Transwarp Portal",
+      "normalized_text": "capture the transwarp portal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed06_primary.txt",
+          "objective_index": 0,
+          "display_text": "Capture the Transwarp Portal"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed06s:objective:07d1a9612914",
+      "faction": "Federation",
+      "mission_number": 6,
+      "mission_module": "a2_fed06S.dsl",
+      "objective_file": "a2_fed06_primary.txt",
+      "objective_index": 1,
+      "display_text": "Eliminate all Borg in the sector",
+      "normalized_text": "eliminate all borg in the sector",
+      "aliases": [
+        {
+          "objective_file": "a2_fed06_primary.txt",
+          "objective_index": 1,
+          "display_text": "Eliminate all Borg in the sector"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed07s:objective:5cbad0e54e3e",
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_B.txt",
+      "objective_index": 1,
+      "display_text": "Eliminate the Borg from system J-356",
+      "normalized_text": "eliminate the borg from system j-356",
+      "aliases": [
+        {
+          "objective_file": "a2_fed07_B.txt",
+          "objective_index": 1,
+          "display_text": "Eliminate the Borg from system J-356"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed07s:objective:52c59b756b9e",
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_A.txt",
+      "objective_index": 0,
+      "display_text": "Use a Repair Ship to repair USS Allegheny",
+      "normalized_text": "use a repair ship to repair uss allegheny",
+      "aliases": [
+        {
+          "objective_file": "a2_fed07_A.txt",
+          "objective_index": 0,
+          "display_text": "Use a Repair Ship to repair USS Allegheny"
+        },
+        {
+          "objective_file": "a2_fed07_B.txt",
+          "objective_index": 0,
+          "display_text": "Use a Repair Ship to repair USS Allegheny"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:30ff8d06a9fc",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 0,
+      "display_text": "Build a Temporal Research Facility",
+      "normalized_text": "build a temporal research facility",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 0,
+          "display_text": "Build a Temporal Research Facility"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:ce669a7ff3e8",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 7,
+      "display_text": "Do not destroy the Borg Nexus",
+      "normalized_text": "do not destroy the borg nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 7,
+          "display_text": "Do not destroy the Borg Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:13b973768757",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 6,
+      "display_text": "Do not let the Enterprise or the Data Miner be destroyed",
+      "normalized_text": "do not let the enterprise or the data miner be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 6,
+          "display_text": "Do not let the Enterprise or the Data Miner be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:49bb0641251e",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 5,
+      "display_text": "Escort the Data Miner back to your Starbase",
+      "normalized_text": "escort the data miner back to your starbase",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 5,
+          "display_text": "Escort the Data Miner back to your Starbase"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:6f70a82dbc61",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 3,
+      "display_text": "Escort the Data Miner to the Nexus",
+      "normalized_text": "escort the data miner to the nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 3,
+          "display_text": "Escort the Data Miner to the Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:98c82be2ed5d",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 1,
+      "display_text": "Locate the Borg Nexus",
+      "normalized_text": "locate the borg nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 1,
+          "display_text": "Locate the Borg Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:20d202427930",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 4,
+      "display_text": "Protect the Data Miner while it gathers intelligence",
+      "normalized_text": "protect the data miner while it gathers intelligence",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 4,
+          "display_text": "Protect the Data Miner while it gathers intelligence"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed08s:objective:6e0bdf32aa8d",
+      "faction": "Federation",
+      "mission_number": 8,
+      "mission_module": "a2_fed08S.dsl",
+      "objective_file": "a2_fed08_A.txt",
+      "objective_index": 2,
+      "display_text": "Take Over the Borg Nexus",
+      "normalized_text": "take over the borg nexus",
+      "aliases": [
+        {
+          "objective_file": "a2_fed08_A.txt",
+          "objective_index": 2,
+          "display_text": "Take Over the Borg Nexus"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed09s:objective:6b1f1ea001d4",
+      "faction": "Federation",
+      "mission_number": 9,
+      "mission_module": "a2_fed09S.dsl",
+      "objective_file": "a2_fed09_third_objectives.txt",
+      "objective_index": 1,
+      "display_text": "Bring the Enterprise and your fleet to the extraction point in the upper right sector of the system",
+      "normalized_text": "bring the enterprise and your fleet to the extraction point in the upper right sector of the system",
+      "aliases": [
+        {
+          "objective_file": "a2_fed09_third_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Bring the Enterprise and your fleet to the extraction point in the upper right sector of the system"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed09s:objective:bcd8c8172516",
+      "faction": "Federation",
+      "mission_number": 9,
+      "mission_module": "a2_fed09S.dsl",
+      "objective_file": "a2_fed09_second_objectives.txt",
+      "objective_index": 0,
+      "display_text": "Destroy the Borg staging grounds",
+      "normalized_text": "destroy the borg staging grounds",
+      "aliases": [
+        {
+          "objective_file": "a2_fed09_second_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Destroy the Borg staging grounds"
+        },
+        {
+          "objective_file": "a2_fed09_third_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Destroy the Borg staging grounds"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed09s:objective:31f4a5f43c2d",
+      "faction": "Federation",
+      "mission_number": 9,
+      "mission_module": "a2_fed09S.dsl",
+      "objective_file": "a2_fed09_main_objectives.txt",
+      "objective_index": 1,
+      "display_text": "Do not let the Enterprise be destroyed",
+      "normalized_text": "do not let the enterprise be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed09_main_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Do not let the Enterprise be destroyed"
+        },
+        {
+          "objective_file": "a2_fed09_second_objectives.txt",
+          "objective_index": 1,
+          "display_text": "Do not let the Enterprise be destroyed"
+        },
+        {
+          "objective_file": "a2_fed09_third_objectives.txt",
+          "objective_index": 2,
+          "display_text": "Do not let the Enterprise be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed09s:objective:2caff932b142",
+      "faction": "Federation",
+      "mission_number": 9,
+      "mission_module": "a2_fed09S.dsl",
+      "objective_file": "a2_fed09_main_objectives.txt",
+      "objective_index": 0,
+      "display_text": "Locate and assess the strength of the Borg staging grounds while waiting for reinforcements",
+      "normalized_text": "locate and assess the strength of the borg staging grounds while waiting for reinforcements",
+      "aliases": [
+        {
+          "objective_file": "a2_fed09_main_objectives.txt",
+          "objective_index": 0,
+          "display_text": "Locate and assess the strength of the Borg staging grounds while waiting for reinforcements"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed10s:objective:eefc09261846",
+      "faction": "Federation",
+      "mission_number": 10,
+      "mission_module": "a2_fed10S.dsl",
+      "objective_file": "a2_fed10_modified.txt",
+      "objective_index": 1,
+      "display_text": "Do not let the Transwarp Portal be destroyed",
+      "normalized_text": "do not let the transwarp portal be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_fed10_modified.txt",
+          "objective_index": 1,
+          "display_text": "Do not let the Transwarp Portal be destroyed"
+        },
+        {
+          "objective_file": "a2_fed10_primary.txt",
+          "objective_index": 1,
+          "display_text": "Do not let the Transwarp Portal be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed10s:objective:abb5af7a4506",
+      "faction": "Federation",
+      "mission_number": 10,
+      "mission_module": "a2_fed10S.dsl",
+      "objective_file": "a2_fed10_primary.txt",
+      "objective_index": 0,
+      "display_text": "Escort incoming fleets to the Transwarp Portal",
+      "normalized_text": "escort incoming fleets to the transwarp portal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed10_primary.txt",
+          "objective_index": 0,
+          "display_text": "Escort incoming fleets to the Transwarp Portal"
+        }
+      ]
+    },
+    {
+      "id": "a2_fed10s:objective:8bcad45b2b7d",
+      "faction": "Federation",
+      "mission_number": 10,
+      "mission_module": "a2_fed10S.dsl",
+      "objective_file": "a2_fed10_modified.txt",
+      "objective_index": 0,
+      "display_text": "Escort the Caddebostan to the Transwarp Portal",
+      "normalized_text": "escort the caddebostan to the transwarp portal",
+      "aliases": [
+        {
+          "objective_file": "a2_fed10_modified.txt",
+          "objective_index": 0,
+          "display_text": "Escort the Caddebostan to the Transwarp Portal"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling01s:objective:dcb1071424b6",
+      "faction": "Klingon",
+      "mission_number": 1,
+      "mission_module": "a2_kling01S.dsl",
+      "objective_file": "a2_kling01_A.txt",
+      "objective_index": 0,
+      "display_text": "Take back the planet Vanoshan",
+      "normalized_text": "take back the planet vanoshan",
+      "aliases": [
+        {
+          "objective_file": "a2_kling01_A.txt",
+          "objective_index": 0,
+          "display_text": "Take back the planet Vanoshan"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling02s:objective:de825c9914ba",
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 0,
+      "display_text": "Construct a trading station",
+      "normalized_text": "construct a trading station",
+      "aliases": [
+        {
+          "objective_file": "a2_kling02_A.txt",
+          "objective_index": 0,
+          "display_text": "Construct a trading station"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling02s:objective:82abddefb94e",
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 3,
+      "display_text": "Eliminate all Cardassians in system (including colony at Kestian)",
+      "normalized_text": "eliminate all cardassians in system (including colony at kestian)",
+      "aliases": [
+        {
+          "objective_file": "a2_kling02_A.txt",
+          "objective_index": 3,
+          "display_text": "Eliminate all Cardassians in system (including colony at Kestian)"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling02s:objective:19af602b310d",
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 1,
+      "display_text": "Research Gravity Mines",
+      "normalized_text": "research gravity mines",
+      "aliases": [
+        {
+          "objective_file": "a2_kling02_A.txt",
+          "objective_index": 1,
+          "display_text": "Research Gravity Mines"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling02s:objective:0441d6a18bcc",
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 2,
+      "display_text": "Research Tachyon Detection Grid",
+      "normalized_text": "research tachyon detection grid",
+      "aliases": [
+        {
+          "objective_file": "a2_kling02_A.txt",
+          "objective_index": 2,
+          "display_text": "Research Tachyon Detection Grid"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling03s:objective:b2956cf4231c",
+      "faction": "Klingon",
+      "mission_number": 3,
+      "mission_module": "a2_kling03S.dsl",
+      "objective_file": "a2_kling03_main.txt",
+      "objective_index": 1,
+      "display_text": "Build a shipyard",
+      "normalized_text": "build a shipyard",
+      "aliases": [
+        {
+          "objective_file": "a2_kling03_main.txt",
+          "objective_index": 1,
+          "display_text": "Build a shipyard"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling03s:objective:f0ba719df1c8",
+      "faction": "Klingon",
+      "mission_number": 3,
+      "mission_module": "a2_kling03S.dsl",
+      "objective_file": "a2_kling03_main.txt",
+      "objective_index": 0,
+      "display_text": "Build a starbase",
+      "normalized_text": "build a starbase",
+      "aliases": [
+        {
+          "objective_file": "a2_kling03_main.txt",
+          "objective_index": 0,
+          "display_text": "Build a starbase"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling03s:objective:83db6811e175",
+      "faction": "Klingon",
+      "mission_number": 3,
+      "mission_module": "a2_kling03S.dsl",
+      "objective_file": "a2_kling03_main.txt",
+      "objective_index": 4,
+      "display_text": "Colonize all planets of the Efate System",
+      "normalized_text": "colonize all planets of the efate system",
+      "aliases": [
+        {
+          "objective_file": "a2_kling03_main.txt",
+          "objective_index": 4,
+          "display_text": "Colonize all planets of the Efate System"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling03s:objective:23a702b285f4",
+      "faction": "Klingon",
+      "mission_number": 3,
+      "mission_module": "a2_kling03S.dsl",
+      "objective_file": "a2_kling03_main.txt",
+      "objective_index": 2,
+      "display_text": "Construct a colony ship",
+      "normalized_text": "construct a colony ship",
+      "aliases": [
+        {
+          "objective_file": "a2_kling03_main.txt",
+          "objective_index": 2,
+          "display_text": "Construct a colony ship"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling03s:objective:8a77dd97d95c",
+      "faction": "Klingon",
+      "mission_number": 3,
+      "mission_module": "a2_kling03S.dsl",
+      "objective_file": "a2_kling03_main.txt",
+      "objective_index": 3,
+      "display_text": "Eliminate any Cardassian presence",
+      "normalized_text": "eliminate any cardassian presence",
+      "aliases": [
+        {
+          "objective_file": "a2_kling03_main.txt",
+          "objective_index": 3,
+          "display_text": "Eliminate any Cardassian presence"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling04s:objective:27b308b0bbbc",
+      "faction": "Klingon",
+      "mission_number": 4,
+      "mission_module": "a2_kling04S.dsl",
+      "objective_file": "a2_kling04_main.txt",
+      "objective_index": 3,
+      "display_text": "Do not let any ships from the convoy reach Mornaur II",
+      "normalized_text": "do not let any ships from the convoy reach mornaur ii",
+      "aliases": [
+        {
+          "objective_file": "a2_kling04_main.txt",
+          "objective_index": 3,
+          "display_text": "Do not let any ships from the convoy reach Mornaur II"
+        },
+        {
+          "objective_file": "a2_kling04_obj1.txt",
+          "objective_index": 3,
+          "display_text": "Do not let any ships from the convoy reach Mornaur II"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling04s:objective:66d027e6c0af",
+      "faction": "Klingon",
+      "mission_number": 4,
+      "mission_module": "a2_kling04S.dsl",
+      "objective_file": "a2_kling04_main.txt",
+      "objective_index": 2,
+      "display_text": "Do not let your fleet be destroyed",
+      "normalized_text": "do not let your fleet be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_kling04_main.txt",
+          "objective_index": 2,
+          "display_text": "Do not let your fleet be destroyed"
+        },
+        {
+          "objective_file": "a2_kling04_obj1.txt",
+          "objective_index": 2,
+          "display_text": "Do not let your fleet be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling04s:objective:ff998999a07d",
+      "faction": "Klingon",
+      "mission_number": 4,
+      "mission_module": "a2_kling04S.dsl",
+      "objective_file": "a2_kling04_main.txt",
+      "objective_index": 0,
+      "display_text": "Locate Mornaur II",
+      "normalized_text": "locate mornaur ii",
+      "aliases": [
+        {
+          "objective_file": "a2_kling04_main.txt",
+          "objective_index": 0,
+          "display_text": "Locate Mornaur II"
+        },
+        {
+          "objective_file": "a2_kling04_obj1.txt",
+          "objective_index": 0,
+          "display_text": "Locate Mornaur II"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling04s:objective:5c107aba1fb2",
+      "faction": "Klingon",
+      "mission_number": 4,
+      "mission_module": "a2_kling04S.dsl",
+      "objective_file": "a2_kling04_main.txt",
+      "objective_index": 1,
+      "display_text": "Research Tachyon Detection Grid in case the Cardassians are using cloaked escorts or patrols",
+      "normalized_text": "research tachyon detection grid in case the cardassians are using cloaked escorts or patrols",
+      "aliases": [
+        {
+          "objective_file": "a2_kling04_main.txt",
+          "objective_index": 1,
+          "display_text": "Research Tachyon Detection Grid in case the Cardassians are using cloaked escorts or patrols"
+        },
+        {
+          "objective_file": "a2_kling04_obj1.txt",
+          "objective_index": 1,
+          "display_text": "Research Tachyon Detection Grid in case the Cardassians are using cloaked escorts or patrols"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling05s:objective:14aafe23ee93",
+      "faction": "Klingon",
+      "mission_number": 5,
+      "mission_module": "a2_kling05S.dsl",
+      "objective_file": "a2_kling05_A.txt",
+      "objective_index": 2,
+      "display_text": "Bring the captured ship to Starbase Mislyv'ee-27",
+      "normalized_text": "bring the captured ship to starbase mislyv'ee-27",
+      "aliases": [
+        {
+          "objective_file": "a2_kling05_A.txt",
+          "objective_index": 2,
+          "display_text": "Bring the captured ship to Starbase Mislyv'ee-27"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling05s:objective:ca493426a095",
+      "faction": "Klingon",
+      "mission_number": 5,
+      "mission_module": "a2_kling05S.dsl",
+      "objective_file": "a2_kling05_A.txt",
+      "objective_index": 3,
+      "display_text": "Do not allow the \"Quantum Singularity Ship\" or Mislyv'ee-27 to be destroyed",
+      "normalized_text": "do not allow the \"quantum singularity ship\" or mislyv'ee-27 to be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_kling05_A.txt",
+          "objective_index": 3,
+          "display_text": "Do not allow the \"Quantum Singularity Ship\" or Mislyv'ee-27 to be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling05s:objective:7f444db14de0",
+      "faction": "Klingon",
+      "mission_number": 5,
+      "mission_module": "a2_kling05S.dsl",
+      "objective_file": "a2_kling05_A.txt",
+      "objective_index": 0,
+      "display_text": "Find a way into Cardassian space",
+      "normalized_text": "find a way into cardassian space",
+      "aliases": [
+        {
+          "objective_file": "a2_kling05_A.txt",
+          "objective_index": 0,
+          "display_text": "Find a way into Cardassian space"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling05s:objective:277fd0af1614",
+      "faction": "Klingon",
+      "mission_number": 5,
+      "mission_module": "a2_kling05S.dsl",
+      "objective_file": "a2_kling05_A.txt",
+      "objective_index": 1,
+      "display_text": "Locate and capture the Kulinor-class \"Quantum Singularity Ship\"",
+      "normalized_text": "locate and capture the kulinor-class \"quantum singularity ship\"",
+      "aliases": [
+        {
+          "objective_file": "a2_kling05_A.txt",
+          "objective_index": 1,
+          "display_text": "Locate and capture the Kulinor-class \"Quantum Singularity Ship\""
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:ec21c20dca7c",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 2,
+      "display_text": "Conquer and colonize the planet \"Er'hik\"",
+      "normalized_text": "conquer and colonize the planet \"er'hik\"",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 2,
+          "display_text": "Conquer and colonize the planet \"Er'hik\""
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:c4a0a3647d5d",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 3,
+      "display_text": "Conquer and colonize the planet \"Pinaloe\"",
+      "normalized_text": "conquer and colonize the planet \"pinaloe\"",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 3,
+          "display_text": "Conquer and colonize the planet \"Pinaloe\""
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:d6f896ebcc77",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 1,
+      "display_text": "Conquer and colonize the planet \"Polacki\"",
+      "normalized_text": "conquer and colonize the planet \"polacki\"",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 1,
+          "display_text": "Conquer and colonize the planet \"Polacki\""
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:25ea3695afb6",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 0,
+      "display_text": "Destroy the Romulan base",
+      "normalized_text": "destroy the romulan base",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 0,
+          "display_text": "Destroy the Romulan base"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:43ff13333f30",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 5,
+      "display_text": "Do not allow Martok to be killed",
+      "normalized_text": "do not allow martok to be killed",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 5,
+          "display_text": "Do not allow Martok to be killed"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling06s:objective:9c281c4f922f",
+      "faction": "Klingon",
+      "mission_number": 6,
+      "mission_module": "a2_kling06S.dsl",
+      "objective_file": "a2_kling06_A.txt",
+      "objective_index": 4,
+      "display_text": "Do not allow your Starbase to be destroyed",
+      "normalized_text": "do not allow your starbase to be destroyed",
+      "aliases": [
+        {
+          "objective_file": "a2_kling06_A.txt",
+          "objective_index": 4,
+          "display_text": "Do not allow your Starbase to be destroyed"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling07s:objective:465018331846",
+      "faction": "Klingon",
+      "mission_number": 7,
+      "mission_module": "a2_kling07S.dsl",
+      "objective_file": "a2_kling07_main.txt",
+      "objective_index": 1,
+      "display_text": "Build a Jach'eng Class Super Ship at the Shockwave Station",
+      "normalized_text": "build a jach'eng class super ship at the shockwave station",
+      "aliases": [
+        {
+          "objective_file": "a2_kling07_main.txt",
+          "objective_index": 1,
+          "display_text": "Build a Jach'eng Class Super Ship at the Shockwave Station"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling07s:objective:f404c0907d29",
+      "faction": "Klingon",
+      "mission_number": 7,
+      "mission_module": "a2_kling07S.dsl",
+      "objective_file": "a2_kling07_main.txt",
+      "objective_index": 0,
+      "display_text": "Build a Shockwave Station",
+      "normalized_text": "build a shockwave station",
+      "aliases": [
+        {
+          "objective_file": "a2_kling07_main.txt",
+          "objective_index": 0,
+          "display_text": "Build a Shockwave Station"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling07s:objective:5f9d4a2fee77",
+      "faction": "Klingon",
+      "mission_number": 7,
+      "mission_module": "a2_kling07S.dsl",
+      "objective_file": "a2_kling07_main.txt",
+      "objective_index": 2,
+      "display_text": "Destroy all Cardassian ships, stations, and colony worlds",
+      "normalized_text": "destroy all cardassian ships, stations, and colony worlds",
+      "aliases": [
+        {
+          "objective_file": "a2_kling07_main.txt",
+          "objective_index": 2,
+          "display_text": "Destroy all Cardassian ships, stations, and colony worlds"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:2d77e49b9800",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 0,
+      "display_text": "Capture a Cardassian ship",
+      "normalized_text": "capture a cardassian ship",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 0,
+          "display_text": "Capture a Cardassian ship"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:898fd182703b",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 3,
+      "display_text": "Destroy the Cardassian Shipyards",
+      "normalized_text": "destroy the cardassian shipyards",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 3,
+          "display_text": "Destroy the Cardassian Shipyards"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:d47d5adc73f8",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 5,
+      "display_text": "Do not allow any Cardassian ships to detect your Starbase and report back to the Cardassian base",
+      "normalized_text": "do not allow any cardassian ships to detect your starbase and report back to the cardassian base",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 5,
+          "display_text": "Do not allow any Cardassian ships to detect your Starbase and report back to the Cardassian base"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:e685e24c4ed0",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 4,
+      "display_text": "Do not allow any Cardassian stations to see your ships",
+      "normalized_text": "do not allow any cardassian stations to see your ships",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 4,
+          "display_text": "Do not allow any Cardassian stations to see your ships"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:761d364385b9",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 1,
+      "display_text": "Escort it to your Starbase to transfer deactivation codes",
+      "normalized_text": "escort it to your starbase to transfer deactivation codes",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 1,
+          "display_text": "Escort it to your Starbase to transfer deactivation codes"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling08s:objective:8ab0092cf40e",
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 2,
+      "display_text": "Send it next to the Cardassian Base to deactivate the turrets.",
+      "normalized_text": "send it next to the cardassian base to deactivate the turrets.",
+      "aliases": [
+        {
+          "objective_file": "a2_kling08_A.txt",
+          "objective_index": 2,
+          "display_text": "Send it next to the Cardassian Base to deactivate the turrets."
+        }
+      ]
+    },
+    {
+      "id": "a2_kling09s:objective:c91168e4e590",
+      "faction": "Klingon",
+      "mission_number": 9,
+      "mission_module": "a2_kling09S.dsl",
+      "objective_file": "a2_kling09_main.txt",
+      "objective_index": 0,
+      "display_text": "Use Assault ships and secure Cardassia Prime",
+      "normalized_text": "use assault ships and secure cardassia prime",
+      "aliases": [
+        {
+          "objective_file": "a2_kling09_main.txt",
+          "objective_index": 0,
+          "display_text": "Use Assault ships and secure Cardassia Prime"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling09s:objective:3a50985970d9",
+      "faction": "Klingon",
+      "mission_number": 9,
+      "mission_module": "a2_kling09S.dsl",
+      "objective_file": "a2_kling09_main.txt",
+      "objective_index": 1,
+      "display_text": "Use Assault ships and secure the neighboring Cardassian worlds",
+      "normalized_text": "use assault ships and secure the neighboring cardassian worlds",
+      "aliases": [
+        {
+          "objective_file": "a2_kling09_main.txt",
+          "objective_index": 1,
+          "display_text": "Use Assault ships and secure the neighboring Cardassian worlds"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling10s:objective:7263a6cf1dee",
+      "faction": "Klingon",
+      "mission_number": 10,
+      "mission_module": "a2_kling10S.dsl",
+      "objective_file": "a2_kling10_main.txt",
+      "objective_index": 0,
+      "display_text": "Destroy the Quantum Singularity Research Facility",
+      "normalized_text": "destroy the quantum singularity research facility",
+      "aliases": [
+        {
+          "objective_file": "a2_kling10_main.txt",
+          "objective_index": 0,
+          "display_text": "Destroy the Quantum Singularity Research Facility"
+        }
+      ]
+    },
+    {
+      "id": "a2_kling10s:objective:03d89ac17a98",
+      "faction": "Klingon",
+      "mission_number": 10,
+      "mission_module": "a2_kling10S.dsl",
+      "objective_file": "a2_kling10_main.txt",
+      "objective_index": 1,
+      "display_text": "Eliminate Gul Kentar",
+      "normalized_text": "eliminate gul kentar",
+      "aliases": [
+        {
+          "objective_file": "a2_kling10_main.txt",
+          "objective_index": 1,
+          "display_text": "Eliminate Gul Kentar"
+        }
+      ]
+    }
+  ],
+  "excluded_failure_conditions": [
+    {
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_a.txt",
+      "objective_index": 3,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 1,
+      "mission_module": "a2_borg01S.dsl",
+      "objective_file": "a2_borg01_b.txt",
+      "objective_index": 0,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 2,
+      "mission_module": "a2_borg02S.dsl",
+      "objective_file": "a2_borg02_A.txt",
+      "objective_index": 2,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 4,
+      "mission_module": "a2_borg04S.dsl",
+      "objective_file": "a2_borg04_main.txt",
+      "objective_index": 3,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 6,
+      "mission_module": "a2_borg06S.dsl",
+      "objective_file": "a2_borg06_main.txt",
+      "objective_index": 4,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_A.txt",
+      "objective_index": 2,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_B.txt",
+      "objective_index": 3,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 7,
+      "mission_module": "a2_borg07S.dsl",
+      "objective_file": "a2_borg07_C.txt",
+      "objective_index": 4,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 8,
+      "mission_module": "a2_borg08S.dsl",
+      "objective_file": "a2_borg08_main_objectives.txt",
+      "objective_index": 1,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 8,
+      "mission_module": "a2_borg08S.dsl",
+      "objective_file": "a2_borg08_main_objectives.txt",
+      "objective_index": 2,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 3,
+      "display_text": "The Federation starbase must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 4,
+      "display_text": "The Federation shipyard must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 5,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_modified.txt",
+      "objective_index": 6,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_primary.txt",
+      "objective_index": 2,
+      "display_text": "The Federation starbase must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_primary.txt",
+      "objective_index": 3,
+      "display_text": "The Federation shipyard must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_primary.txt",
+      "objective_index": 4,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 9,
+      "mission_module": "a2_borg09S.dsl",
+      "objective_file": "a2_borg09_primary.txt",
+      "objective_index": 5,
+      "display_text": "The Borg Queen's Diamond must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Borg",
+      "mission_number": 10,
+      "mission_module": "a2_borg10S.dsl",
+      "objective_file": "a2_borg10_primary.txt",
+      "objective_index": 8,
+      "display_text": "The Borg Queen's Diamond, the Enterprise, and the Incursion must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 1,
+      "mission_module": "a2_fed01S.dsl",
+      "objective_file": "a2_fed01_A.txt",
+      "objective_index": 4,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 3,
+      "mission_module": "a2_fed03S.dsl",
+      "objective_file": "a2_fed03_second_objectives.txt",
+      "objective_index": 2,
+      "display_text": "The Enterprise and Starbase 176 must survive until you receive your next orders",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 4,
+      "mission_module": "a2_fed04S.dsl",
+      "objective_file": "a2_fed04_third.txt",
+      "objective_index": 6,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 6,
+      "mission_module": "a2_fed06S.dsl",
+      "objective_file": "a2_fed06_primary.txt",
+      "objective_index": 2,
+      "display_text": "The Transwarp Portal must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 6,
+      "mission_module": "a2_fed06S.dsl",
+      "objective_file": "a2_fed06_primary.txt",
+      "objective_index": 3,
+      "display_text": "Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_A.txt",
+      "objective_index": 1,
+      "display_text": "The Allegheny must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_A.txt",
+      "objective_index": 2,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_B.txt",
+      "objective_index": 2,
+      "display_text": "The Allegheny must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 7,
+      "mission_module": "a2_fed07S.dsl",
+      "objective_file": "a2_fed07_B.txt",
+      "objective_index": 3,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 10,
+      "mission_module": "a2_fed10S.dsl",
+      "objective_file": "a2_fed10_modified.txt",
+      "objective_index": 2,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Federation",
+      "mission_number": 10,
+      "mission_module": "a2_fed10S.dsl",
+      "objective_file": "a2_fed10_primary.txt",
+      "objective_index": 2,
+      "display_text": "The Enterprise must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 1,
+      "mission_module": "a2_kling01S.dsl",
+      "objective_file": "a2_kling01_A.txt",
+      "objective_index": 1,
+      "display_text": "The planet Zarush must not be taken over",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 1,
+      "mission_module": "a2_kling01S.dsl",
+      "objective_file": "a2_kling01_A.txt",
+      "objective_index": 2,
+      "display_text": "Martok must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 4,
+      "display_text": "Captain Bek'Ta must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 2,
+      "mission_module": "a2_kling02S.dsl",
+      "objective_file": "a2_kling02_A.txt",
+      "objective_index": 5,
+      "display_text": "Starbase Ejyowaw-10 must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 5,
+      "mission_module": "a2_kling05S.dsl",
+      "objective_file": "a2_kling05_A.txt",
+      "objective_index": 4,
+      "display_text": "Chancellor Martok must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 7,
+      "mission_module": "a2_kling07S.dsl",
+      "objective_file": "a2_kling07_main.txt",
+      "objective_index": 3,
+      "display_text": "Martok must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 8,
+      "mission_module": "a2_kling08S.dsl",
+      "objective_file": "a2_kling08_A.txt",
+      "objective_index": 6,
+      "display_text": "Martok must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 9,
+      "mission_module": "a2_kling09S.dsl",
+      "objective_file": "a2_kling09_main.txt",
+      "objective_index": 2,
+      "display_text": "Chancellor Martok must survive",
+      "reason": "failure_only_language"
+    },
+    {
+      "faction": "Klingon",
+      "mission_number": 10,
+      "mission_module": "a2_kling10S.dsl",
+      "objective_file": "a2_kling10_main.txt",
+      "objective_index": 2,
+      "display_text": "Martok must survive",
+      "reason": "failure_only_language"
+    }
+  ]
+}
